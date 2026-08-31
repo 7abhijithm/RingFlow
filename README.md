@@ -9,10 +9,9 @@ An automated YouTube-to-Ringtone tool that extracts, normalizes, tags, and expor
 If you just want to create ringtones without installing Python:
 
 1. Go to the [Releases](https://github.com/7abhijithm/RingFlow/releases) page.
-2. Download the latest `RingFlow-v1.0.0-Windows.zip`.
-3. Extract the `.zip` archive to any folder.
-4. Double-click **`RingFlow.exe`**.
-5. Paste any YouTube link and press **Enter**.
+2. Download the latest `RingFlow.exe`.
+3. Double-click **`RingFlow.exe`**.
+4. Paste any YouTube link and press **Enter**.
 
 ---
 
