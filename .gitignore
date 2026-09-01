@@ -1,0 +1,23 @@
+# Virtual Environments
+env/
+venv/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# PyInstaller Build Artifacts
+build/
+dist/
+*.spec
+
+# Generated Media Outputs
+*.mp3
+*.m4r
+*.webm
+*.m4a
+*.opus
+*.jpg
+*.webp
+temp_*

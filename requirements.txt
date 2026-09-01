@@ -1,0 +1,5 @@
+yt-dlp 
+static-ffmpeg 
+requests 
+mutagen 
+pyinstaller
