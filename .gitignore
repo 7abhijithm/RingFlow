@@ -20,4 +20,4 @@ dist/
 *.opus
 *.jpg
 *.webp
-temp_*
+temp_**.zip 
